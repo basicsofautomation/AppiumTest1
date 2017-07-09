@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Common Framework">
+	<listeners>
+		
+		
+		
+	</listeners>
+	<test name="Login Test">
+		<classes>
+			<class name="testingNG.BaseClass" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Functionality Test">
+		<classes>
+			<class name="testingNG.Testdriver" />
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

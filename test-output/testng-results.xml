@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Common Framework" duration-ms="73058" started-at="2017-06-18T16:44:19Z" finished-at="2017-06-18T16:45:32Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="14" started-at="2017-06-18T16:44:19Z" finished-at="2017-06-18T16:44:19Z">
+    </test> <!-- Login Test -->
+    <test name="Functionality Test" duration-ms="72487" started-at="2017-06-18T16:44:20Z" finished-at="2017-06-18T16:45:32Z">
+      <class name="testingNG.Testdriver">
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:testingNG.Testdriver@7085bdee]" name="doLogin" duration-ms="72385" started-at="2017-06-18T22:14:20Z" finished-at="2017-06-18T22:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- testingNG.Testdriver -->
+    </test> <!-- Functionality Test -->
+  </suite> <!-- Common Framework -->
+</testng-results>
